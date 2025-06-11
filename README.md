@@ -1,4 +1,5 @@
-Flipkart Mobile Market Analysis Dashboard
+#Flipkart Mobile Market Analysis Dashboard
+
 📂 Project Overview
 This dashboard presents a detailed data visualization of the Indian mobile market on Flipkart, designed to provide insights into mobile offerings by various brands, their price segments, specifications, and overall market trends.
 
