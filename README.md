@@ -1,11 +1,11 @@
-#Flipkart Mobile Market Analysis Dashboard
+# Flipkart Mobile Market Analysis Dashboard
 
-📂 Project Overview
+# 📂 Project Overview
 This dashboard presents a detailed data visualization of the Indian mobile market on Flipkart, designed to provide insights into mobile offerings by various brands, their price segments, specifications, and overall market trends.
 
 The analysis answers key business questions posed by stakeholders to help in decision-making for marketing, inventory planning, and customer targeting.
 
-✅ Key Features & Insights Covered
+# ✅ Key Features & Insights Covered
 Price Segments Covered
 
 Low, Medium, Premium
@@ -28,7 +28,7 @@ RAM (Memory): 4GB is the most popular.
 
 Storage: 64GB and 128GB dominate the offerings.
 
-KPI Highlights
+# KPI Highlights
 
 📉 Average Discount: 6%
 
@@ -38,7 +38,7 @@ KPI Highlights
 
 🏆 Popular Brand: Apple
 
-📊 Visualizations Used
+# 📊 Visualizations Used
 Visualization Type	Description
 Pie Chart	Segment-wise Sales Contribution
 Bar Charts	- Brand Offering Count
