@@ -46,4 +46,4 @@ Bar Charts	- Brand Offering Count
 Data Table	Brand offerings by price segment
 KPI Cards	Key Metrics summary
 
-(./Flipkpng.png)
+![Dashboard](./Flipkpng.png)
